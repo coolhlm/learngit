@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+Connection closed by foreign host.DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+Disconnected from remote host(99.4) at 11:28:10.
+    <key>items</key>
+Type `help' to learn how to use Xshell prompt.
+[c:\~]$ 
+                <key>assets</key>
+                <array>
+                        <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://120.197.235.101:8080/apkIosFile/ios/ba63444167d843b1ae3a4e99172bb306.ipa</string>
+                        </dict>
+                </array>
+    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.cmcc.enterprise-classID.onecardmultinumber.sdk</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>统一认证</string>
+                    </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
