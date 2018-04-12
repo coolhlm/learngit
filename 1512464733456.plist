@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://120.197.235.101:8080/apkIosFile/ios/0824639b541840a6a5bd9168b199b4ef.ipa</string>
+                        <string>http://120.197.235.101:8080/apkIosFile/ios/40ca023591d442fca0d60836d6e91972.ipa</string>
                         </dict>
                 </array>
     <key>metadata</key>
@@ -23,7 +24,7 @@
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>iOSManager</string>
+                        <string>iOSPackages</string>
                     </dict>
                 </dict>
         </array>
