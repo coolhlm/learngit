@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://120.197.235.101:8080/apkIosFile/ios/63fc69bc28884d17bd7d33e51aa6f1fc.ipa</string>
+                        <string>http://120.197.235.101:8080/apkIosFile/ios/ecfdaa9973484bd88f29dedf4f3c40de.ipa</string>
                         </dict>
                 </array>
     <key>metadata</key>
@@ -23,7 +23,7 @@
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>iOSPackages</string>
+                        <string>iOSManager</string>
                     </dict>
                 </dict>
         </array>
