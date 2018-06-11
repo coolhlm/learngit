@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                        <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://120.197.235.101:8080/apkIosFile/ios/3bb4a061232a4893b3b403ffa8ff5243.ipa</string>
+                        </dict>
+                </array>
+    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.cmcc.enterprise-classID.onecardmultinumber.sdk</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>统一认证</string>
+                    </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
